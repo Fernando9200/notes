@@ -55,7 +55,3 @@ To run this project locally, follow these steps:
 - **Moving Notes:** Click and drag a note by its header to reposition it.
 - **Changing Color:** Click on one of the color options to change the color of the selected note.
 - **Deleting Notes:** Click the trash icon on the note's header to delete it.
-
-## Acknowledgments
-
-- Special thanks to [freeCodeCamp](https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/) for their tutorial on building a sticky notes app with React and Appwrite. This project was inspired and guided by their comprehensive walkthrough.
